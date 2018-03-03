@@ -1,0 +1,1 @@
+Database config needs to be defined in class_Config.php
